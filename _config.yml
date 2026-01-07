@@ -12,18 +12,18 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Yutong Chen"
 title_separator          : "-"
 name                     : &name "Yutong Chen"
-description              : &description "Graduate Student in Representation Theory"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://cyt0310.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "personal description"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://CYT0310.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cyt0310/cyt0310.github.io"
+repository               : "CYT0310/CYT0310.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/favicon-192x192.png"
+  avatar           : "bio-photo.jpg"
   name             : "Yutong Chen"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student in Representation Theory"
