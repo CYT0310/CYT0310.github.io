@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/bio-photo.jpg"
+  avatar           : "https://github.com/CYT0310/CYT0310.github.io/blob/master/images/bio-photo.jpg"
   name             : "Yutong Chen"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student in Representation Theory"
