@@ -1,7 +1,7 @@
 ---
 title: "The Étale Site"
 collection: talks
-permalink: /talks/2014-03-01-talk-3
+permalink: /talks/Etale-talk
 venue: "MIT"
 date: 2025-09-18
 location: "Boston, MA, USA"
