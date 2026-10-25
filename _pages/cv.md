@@ -11,35 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics, Massachusetts Institute of Technology, 2030 (expected)
+* MASt. in Pure Mathematics, Trinity College, University of Cambridge, 2025
+* B.A. in Mathematics, Oriel College, University of Oxford, 2024
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2024: Research Intern
+  * University of Oxford
+  * Formulate and partially prove a generalisation of Saxl's conjecture in the setting of Coxeter groups using their Spin covers. Discover a uniform characterization of Lusztig's notion of cuspidal family.
+  * Supervisor: Prof. Dan Ciubotaru.
+  * Funded by London Mathematical Society.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Research Intern
+  * University of Oxford
+  * Look into the isometry group of a hyperbolic model for a general CAT(0) spaces, and prove a theorem on excluding parabolic actions in most cases of interest, which sheds light on the conjecture of Tits alternative for CAT(0) groups.
+  * Supervisor: Dr. Davide Spriano and Dr. Harry Petyt.
+  * Funded by Mathematical Institute, Oxford.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -58,7 +48,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
