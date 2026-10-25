@@ -7,7 +7,7 @@ author_profile: false
 
 {% assign pinned_notes = site.course_notes | where: "pinned", true | where_exp: "note", "note.relative_path != '_course_notes/weil-conjectures.md'" | sort: "pin_order" %}
 {% assign fourth_note = site.course_notes | where: "relative_path", "_course_notes/kazhdan-lusztig-theory.md" %}
-{% assign dated_notes = site.course_notes | where_exp: "note", "note.pinned != true and note.relative_path != '_course_notes/kazhdan-lusztig-theory.md'" | sort: "date" | reverse %}
+{% assign dated_notes = site.course_notes | where_exp: "note", "note.pinned != true" | where_exp: "note", "note.relative_path != '_course_notes/kazhdan-lusztig-theory.md'" | sort: "date" | reverse %}
 {% assign last_note = site.course_notes | where: "relative_path", "_course_notes/weil-conjectures.md" %}
 {% assign notes = pinned_notes | concat: fourth_note | concat: dated_notes | concat: last_note %}
 
