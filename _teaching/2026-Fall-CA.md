@@ -3,7 +3,7 @@ title: "TA for Commutative Algebra"
 collection: teaching
 type: "graduate course"
 venue: "MIT"
-date: 2026FA
+date: 2026
 location: "Cambridge"
 ---
 
