@@ -7,4 +7,4 @@ venue: "MIT"
 date: 2025-09-18
 ---
 
-This is a talk for MIT STAGE learning seminar on the proof of Weil conjecture. We define étale morphisms, Grothendieck topologies, the étale site, and sheaves thereon.
+This is a talk for MIT STAGE learning seminar on the proof of Weil conjecture.
