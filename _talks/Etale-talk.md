@@ -2,7 +2,6 @@
 title: "The Étale Site"
 collection: talks
 type: "Talk"
-permalink: /talks/Etale-talk
 venue: "MIT"
 date: 2025-09-18
 ---
