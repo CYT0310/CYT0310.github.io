@@ -1,4 +1,6 @@
 ---
+pinned: true
+pin_order: 1
 title: "Introduction to the Affine Grassmannian"
 pdfurl: /files/AffGrass.pdf
 ---

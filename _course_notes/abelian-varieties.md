@@ -1,4 +1,5 @@
 ---
+date: 2025-01-01
 title: "Abelian Varieties"
 pdfurl: /files/Abelian%20Varieties.pdf
 ---

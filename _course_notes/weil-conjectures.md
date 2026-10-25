@@ -1,4 +1,6 @@
 ---
+pinned: true
+pin_order: 4
 title: "Weil Conjectures"
 pdfurl: /files/WeilConj.pdf
 ---

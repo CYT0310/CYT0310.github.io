@@ -1,4 +1,5 @@
 ---
+date: 2025-01-01
 title: "Geometric Representation Theory"
 pdfurl: /files/Geometric_Reps_Notes.pdf
 ---

@@ -1,4 +1,5 @@
 ---
+date: 2026-02-01
 title: "Algebraic Geometry II"
 pdfurl: /files/AG2.pdf
 ---

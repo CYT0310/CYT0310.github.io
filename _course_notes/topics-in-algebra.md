@@ -1,4 +1,5 @@
 ---
+date: 2026-02-01
 title: "Topics in Algebra"
 pdfurl: /files/TopicAlg.pdf
 ---

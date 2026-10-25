@@ -1,4 +1,5 @@
 ---
+date: 2026-02-01
 title: "Automorphic Representations"
 pdfurl: /files/NT2.pdf
 ---

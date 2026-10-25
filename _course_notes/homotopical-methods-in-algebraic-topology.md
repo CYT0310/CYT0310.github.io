@@ -1,4 +1,5 @@
 ---
+date: 2025-09-01
 title: "Homotopical Methods in Algebraic Topology"
 pdfurl: /files/AT2.pdf
 ---
