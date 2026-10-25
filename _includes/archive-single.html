@@ -26,7 +26,8 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
+    <h2 class="archive__item-title" itemprop="headline"
+    {% if post.collection == 'teaching' %}style="text-decoration: none;"{% endif %}>
       {% if post.collection == 'teaching' %}
   {{ title }}
 {% elsif post.link %}
