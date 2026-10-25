@@ -1,6 +1,6 @@
 ---
-title: "Representations of Lie Groups"
+title: "Representations of Real Lie Groups"
 pdfurl: /files/RepsLie.pdf
 ---
 
-Lecture notes on representations of Lie groups (Fall 2025).
+Lecture notes on MIT 18.757: Representations of Lie groups (Fall 2025).
