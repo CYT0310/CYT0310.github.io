@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/Descent-talk
 venue: "MIT"
-date: 2025-09-18
+date: 2026-03-12
 ---
 
 This is a talk for MIT STAGE learning seminar on Descent obstruction. 
