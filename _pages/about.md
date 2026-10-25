@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a second-year graduate student in mathematics at MIT interested in geometric representation theory. I'm fortunate to be advised by Prof. Zhiwei Yun. Before coming to MIT, I pursued undergraduate at Oriel College, Oxford, and completed Part C at Trinity College, Cambridge.
+Hi! I am a second-year graduate student in mathematics at MIT interested in geometric representation theory. I'm fortunate to be advised by Prof. Zhiwei Yun. Before coming to MIT, I pursued my undergraduate degree at Oriel College, Oxford, and my master degree at Trinity College, Cambridge.
