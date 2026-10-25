@@ -6,11 +6,3 @@ permalink: /teaching/2026-Fall-CA
 ---
 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
