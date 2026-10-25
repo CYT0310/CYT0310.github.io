@@ -5,7 +5,9 @@ permalink: /course-notes/
 author_profile: false
 ---
 
-{% assign notes = site.course_notes | sort: "date" | reverse %}
+{% assign pinned_notes = site.course_notes | where: "pinned", true | sort: "pin_order" %}
+{% assign dated_notes = site.course_notes | where_exp: "note", "note.pinned != true" | sort: "date" | reverse %}
+{% assign notes = pinned_notes | concat: dated_notes %}
 
 {% for note in notes %}
   <section>
