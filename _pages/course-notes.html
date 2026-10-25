@@ -5,6 +5,8 @@ permalink: /course-notes/
 author_profile: false
 ---
 
+<p class="notice--warning"><strong>Please note:</strong> These notes have not been carefully checked and may contain typos, errors, or omissions. Any such mistakes are almost certainly my own. Please read with care; corrections and comments are very welcome.</p>
+
 {% assign pinned_notes = site.course_notes | where: "pinned", true | where_exp: "note", "note.relative_path != '_course_notes/weil-conjectures.md'" | sort: "pin_order" %}
 {% assign fourth_note = site.course_notes | where: "relative_path", "_course_notes/kazhdan-lusztig-theory.md" %}
 {% assign dated_notes = site.course_notes | where_exp: "note", "note.pinned != true" | where_exp: "note", "note.relative_path != '_course_notes/kazhdan-lusztig-theory.md'" | sort: "date" | reverse %}
