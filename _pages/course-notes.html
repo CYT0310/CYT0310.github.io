@@ -1,0 +1,24 @@
+---
+layout: archive
+title: "Course Notes"
+permalink: /course-notes/
+author_profile: false
+---
+
+{% assign notes = site.course_notes | sort: "date" | reverse %}
+
+{% for note in notes %}
+  <section>
+    <h2>{{ note.title | escape }}</h2>
+
+    {{ note.content | markdownify }}
+
+    {% if note.pdfurl %}
+      <p>
+        <a href="{{ note.pdfurl | relative_url }}">
+          Download notes (PDF)
+        </a>
+      </p>
+    {% endif %}
+  </section>
+{% endfor %}
