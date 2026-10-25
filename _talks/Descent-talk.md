@@ -1,5 +1,5 @@
 ---
-title: "The descent obstruction"
+title: "The Descent Obstruction"
 collection: talks
 type: "Talk"
 permalink: /talks/Descent-talk
